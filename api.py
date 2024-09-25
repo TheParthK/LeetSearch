@@ -63,7 +63,3 @@ def get_similar_problems(query: QueryRequest):
         response.append(problem_data)
 
     return response
-
-
-# Run the server
-# If you want to run it with 'uvicorn', run it with `uvicorn main:app --reload`

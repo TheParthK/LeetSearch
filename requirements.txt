@@ -1,0 +1,6 @@
+fastapi==0.100.0
+uvicorn==0.22.0
+pandas==2.0.3
+scikit-learn==1.3.0
+sentence-transformers==2.2.2
+torch==2.0.1  # Required for Sentence-BERT
