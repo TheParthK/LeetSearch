@@ -6,7 +6,7 @@ from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Load the dataset
-df = pd.read_csv('leetcode_problems.csv')
+df = pd.read_csv('../leetcode_problems.csv')
 
 # Initialize FastAPI app
 app = FastAPI()
