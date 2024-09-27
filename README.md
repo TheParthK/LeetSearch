@@ -3,7 +3,8 @@ LeetSearch
 > <**The LeetCode Problem Similarity Website API**\>
 
 Try it! ->
-**_[LeetSearch Streamlit App](https://leetsearch.streamlit.app)_**
+<b><i><a href="https://leetsearch.streamlit.app" target="_blank">LeetSearch Streamlit App</a><i><b>
+
 
 
 
