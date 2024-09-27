@@ -80,7 +80,7 @@ def display_table(similar_problems):
                                       'selector': 'td',
                                       'props': [('text-align', 'center')]  # This centers the row content
                                   }])
-    
+
     # Display the table using Streamlit's st.write with HTML rendering
     st.write(styled_table.to_html(escape=False), unsafe_allow_html=True)
 
